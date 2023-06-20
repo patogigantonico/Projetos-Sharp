@@ -1,0 +1,9 @@
+c:\users\usuario\documents\visual studio 2010\Projects\Bloco de notas simples\Bloco de notas simples\bin\Debug\Bloco de notas simples.exe
+c:\users\usuario\documents\visual studio 2010\Projects\Bloco de notas simples\Bloco de notas simples\bin\Debug\Bloco de notas simples.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\Bloco de notas simples\Bloco de notas simples\obj\x86\Debug\Bloco_de_notas_simples.Form1.resources
+c:\users\usuario\documents\visual studio 2010\Projects\Bloco de notas simples\Bloco de notas simples\obj\x86\Debug\Bloco_de_notas_simples.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2010\Projects\Bloco de notas simples\Bloco de notas simples\obj\x86\Debug\Bloco de notas simples.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2010\Projects\Bloco de notas simples\Bloco de notas simples\obj\x86\Debug\Bloco de notas simples.exe
+c:\users\usuario\documents\visual studio 2010\Projects\Bloco de notas simples\Bloco de notas simples\obj\x86\Debug\Bloco de notas simples.pdb
+C:\Users\Usuario\documents\visual studio 2010\Projects\Bloco de notas simples\Bloco de notas simples\obj\x86\Debug\Bloco de notas simples.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\documents\visual studio 2010\Projects\Bloco de notas simples\Bloco de notas simples\obj\x86\Debug\Bloco_de_notas_simples.Editar_fonte.resources
