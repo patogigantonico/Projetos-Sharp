@@ -1,0 +1,14 @@
+c:\users\usuario\documents\visual studio 2010\Projects\Conversor de arquivos\Conversor de arquivos\bin\Debug\Conversor de arquivos.exe
+c:\users\usuario\documents\visual studio 2010\Projects\Conversor de arquivos\Conversor de arquivos\bin\Debug\Conversor de arquivos.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\Conversor de arquivos\Conversor de arquivos\obj\x86\Debug\Conversor_de_arquivos.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2010\Projects\Conversor de arquivos\Conversor de arquivos\obj\x86\Debug\Conversor de arquivos.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2010\Projects\Conversor de arquivos\Conversor de arquivos\obj\x86\Debug\Conversor de arquivos.exe
+c:\users\usuario\documents\visual studio 2010\Projects\Conversor de arquivos\Conversor de arquivos\obj\x86\Debug\Conversor de arquivos.pdb
+C:\Users\Usuario\documents\visual studio 2010\Projects\Conversor de arquivos\Conversor de arquivos\obj\x86\Debug\Conversor de arquivos.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Conversor de arquivos\Conversor de arquivos\obj\x86\Debug\Conversor_de_arquivos.app.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Conversor de arquivos\Conversor de arquivos\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Conversor de arquivos\Conversor de arquivos\obj\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Conversor de arquivos\Conversor de arquivos\obj\x86\Debug\Conversor de arquivos.csproj.ResolveComReference.cache
+C:\Users\Usuario\documents\visual studio 2010\Projects\Conversor de arquivos\Conversor de arquivos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Usuario\documents\visual studio 2010\Projects\Conversor de arquivos\Conversor de arquivos\bin\Debug\itextsharp.dll
+C:\Users\Usuario\documents\visual studio 2010\Projects\Conversor de arquivos\Conversor de arquivos\bin\Debug\itextsharp.xml
