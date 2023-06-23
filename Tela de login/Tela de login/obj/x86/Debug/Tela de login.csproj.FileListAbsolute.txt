@@ -1,0 +1,9 @@
+c:\users\usuario\documents\visual studio 2010\Projects\Tela de login\Tela de login\bin\Debug\Tela de login.exe
+c:\users\usuario\documents\visual studio 2010\Projects\Tela de login\Tela de login\bin\Debug\Tela de login.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\Tela de login\Tela de login\obj\x86\Debug\Tela_de_login.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2010\Projects\Tela de login\Tela de login\obj\x86\Debug\Tela de login.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2010\Projects\Tela de login\Tela de login\obj\x86\Debug\Tela de login.exe
+c:\users\usuario\documents\visual studio 2010\Projects\Tela de login\Tela de login\obj\x86\Debug\Tela de login.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\Tela de login\Tela de login\obj\x86\Debug\Tela_de_login.LoginScreen.resources
+c:\users\usuario\documents\visual studio 2010\Projects\Tela de login\Tela de login\obj\x86\Debug\Tela_de_login.PrincipalScreen.resources
+c:\users\usuario\documents\visual studio 2010\Projects\Tela de login\Tela de login\obj\x86\Debug\Tela_de_login.RegisterScreen.resources
