@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gerador de números", "Gerador de números\Gerador de números.csproj", "{7BEAACF9-1B83-49D4-8534-EAF6375A5000}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalador", "Instalador\Instalador.vdproj", "{C7B39D6F-87BA-4252-BA1F-9D600A309B3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BEAACF9-1B83-49D4-8534-EAF6375A5000}.Debug|x86.ActiveCfg = Debug|x86
+		{7BEAACF9-1B83-49D4-8534-EAF6375A5000}.Debug|x86.Build.0 = Debug|x86
+		{7BEAACF9-1B83-49D4-8534-EAF6375A5000}.Release|x86.ActiveCfg = Release|x86
+		{7BEAACF9-1B83-49D4-8534-EAF6375A5000}.Release|x86.Build.0 = Release|x86
+		{C7B39D6F-87BA-4252-BA1F-9D600A309B3B}.Debug|x86.ActiveCfg = Debug
+		{C7B39D6F-87BA-4252-BA1F-9D600A309B3B}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

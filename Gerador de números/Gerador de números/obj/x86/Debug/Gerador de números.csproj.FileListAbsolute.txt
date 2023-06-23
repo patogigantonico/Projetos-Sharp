@@ -1,0 +1,8 @@
+c:\users\usuario\documents\visual studio 2010\Projects\Gerador de números\Gerador de números\bin\Debug\Gerador de números.exe
+c:\users\usuario\documents\visual studio 2010\Projects\Gerador de números\Gerador de números\bin\Debug\Gerador de números.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\Gerador de números\Gerador de números\obj\x86\Debug\Gerador_de_números.Programa.resources
+c:\users\usuario\documents\visual studio 2010\Projects\Gerador de números\Gerador de números\obj\x86\Debug\Gerador_de_números.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2010\Projects\Gerador de números\Gerador de números\obj\x86\Debug\Gerador de números.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2010\Projects\Gerador de números\Gerador de números\obj\x86\Debug\Gerador de números.exe
+c:\users\usuario\documents\visual studio 2010\Projects\Gerador de números\Gerador de números\obj\x86\Debug\Gerador de números.pdb
+C:\Users\Usuario\documents\visual studio 2010\Projects\Gerador de números\Gerador de números\obj\x86\Debug\Gerador de números.csprojResolveAssemblyReference.cache
