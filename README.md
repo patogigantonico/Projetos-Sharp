@@ -6,3 +6,4 @@ Estou aberto à qualquer sugestão/crítica construtiva.
 Você pode entrar em contato comigo pelo discord: ;;#8068.
 
 Vale lembrar que alguns projetos não estão completos por se tratar apenas de demonstrações.
+Você pode encontrar o executável do projeto na pasta bin/debug
