@@ -1,0 +1,8 @@
+c:\users\usuario\documents\visual studio 2010\Projects\CRUID com Datagridview\CRUID com Datagridview\bin\Debug\CRUID com Datagridview.exe
+c:\users\usuario\documents\visual studio 2010\Projects\CRUID com Datagridview\CRUID com Datagridview\bin\Debug\CRUID com Datagridview.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\CRUID com Datagridview\CRUID com Datagridview\obj\x86\Debug\CRUID_com_Datagridview.Form1.resources
+c:\users\usuario\documents\visual studio 2010\Projects\CRUID com Datagridview\CRUID com Datagridview\obj\x86\Debug\CRUID_com_Datagridview.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2010\Projects\CRUID com Datagridview\CRUID com Datagridview\obj\x86\Debug\CRUID com Datagridview.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2010\Projects\CRUID com Datagridview\CRUID com Datagridview\obj\x86\Debug\CRUID com Datagridview.exe
+c:\users\usuario\documents\visual studio 2010\Projects\CRUID com Datagridview\CRUID com Datagridview\obj\x86\Debug\CRUID com Datagridview.pdb
+C:\Users\Usuario\documents\visual studio 2010\Projects\CRUID com Datagridview\CRUID com Datagridview\obj\x86\Debug\CRUID com Datagridview.csprojResolveAssemblyReference.cache
