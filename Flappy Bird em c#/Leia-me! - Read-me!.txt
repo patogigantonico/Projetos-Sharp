@@ -1,0 +1,10 @@
+*Flappy Bird C# Edition by Patogigantonico*
+
+Antes de continuar você pode fazer algumas coisas..
+
+-Você pode encontrar o instalador na pasta > Debug > Instalador.
+-Você pode entrar em contato comigo no discord: kih_i.
+
+Sinta-se livre para deixar suas sugestões/críticas.
+
+*Todos os direitos autorais vão para o flappy bird e seus respectivos donos*
