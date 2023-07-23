@@ -1,0 +1,8 @@
+c:\users\usuario\documents\visual studio 2010\Projects\Aplicativo signos\Aplicativo signos\bin\Debug\Aplicativo signos.exe
+c:\users\usuario\documents\visual studio 2010\Projects\Aplicativo signos\Aplicativo signos\bin\Debug\Aplicativo signos.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\Aplicativo signos\Aplicativo signos\obj\x86\Debug\Aplicativo_signos.Form1.resources
+c:\users\usuario\documents\visual studio 2010\Projects\Aplicativo signos\Aplicativo signos\obj\x86\Debug\Aplicativo_signos.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2010\Projects\Aplicativo signos\Aplicativo signos\obj\x86\Debug\Aplicativo signos.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2010\Projects\Aplicativo signos\Aplicativo signos\obj\x86\Debug\Aplicativo signos.exe
+c:\users\usuario\documents\visual studio 2010\Projects\Aplicativo signos\Aplicativo signos\obj\x86\Debug\Aplicativo signos.pdb
+C:\Users\Usuario\documents\visual studio 2010\Projects\Aplicativo signos\Aplicativo signos\obj\x86\Debug\Aplicativo signos.csprojResolveAssemblyReference.cache
