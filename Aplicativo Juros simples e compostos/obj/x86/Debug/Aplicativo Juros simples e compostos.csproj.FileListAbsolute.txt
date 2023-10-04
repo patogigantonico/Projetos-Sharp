@@ -1,0 +1,9 @@
+C:\Users\Usuario\documents\visual studio 2010\Projects\TestesAleatorios\Aplicativo Juros simples e compostos\bin\Debug\Aplicativo Juros simples e compostos.exe
+C:\Users\Usuario\documents\visual studio 2010\Projects\TestesAleatorios\Aplicativo Juros simples e compostos\bin\Debug\Aplicativo Juros simples e compostos.pdb
+C:\Users\Usuario\documents\visual studio 2010\Projects\TestesAleatorios\Aplicativo Juros simples e compostos\obj\x86\Debug\Aplicativo_Juros_simples_e_compostos.Form1.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\TestesAleatorios\Aplicativo Juros simples e compostos\obj\x86\Debug\Aplicativo_Juros_simples_e_compostos.Properties.Resources.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\TestesAleatorios\Aplicativo Juros simples e compostos\obj\x86\Debug\Aplicativo Juros simples e compostos.csproj.GenerateResource.Cache
+C:\Users\Usuario\documents\visual studio 2010\Projects\TestesAleatorios\Aplicativo Juros simples e compostos\obj\x86\Debug\Aplicativo Juros simples e compostos.exe
+C:\Users\Usuario\documents\visual studio 2010\Projects\TestesAleatorios\Aplicativo Juros simples e compostos\obj\x86\Debug\Aplicativo Juros simples e compostos.pdb
+C:\Users\Usuario\documents\visual studio 2010\Projects\TestesAleatorios\Aplicativo Juros simples e compostos\obj\x86\Debug\Aplicativo_Juros_simples_e_compostos.JurosCompostos.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\TestesAleatorios\Aplicativo Juros simples e compostos\obj\x86\Debug\Aplicativo Juros simples e compostos.csprojResolveAssemblyReference.cache
