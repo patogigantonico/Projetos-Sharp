@@ -1,0 +1,5 @@
+C:\Users\Usuario\documents\visual studio 2010\Projects\TestesAleatorios\JogoAdvinhacao\bin\Debug\JogoAdvinhacao.exe
+C:\Users\Usuario\documents\visual studio 2010\Projects\TestesAleatorios\JogoAdvinhacao\bin\Debug\JogoAdvinhacao.pdb
+C:\Users\Usuario\documents\visual studio 2010\Projects\TestesAleatorios\JogoAdvinhacao\obj\x86\Debug\JogoAdvinhacao.exe
+C:\Users\Usuario\documents\visual studio 2010\Projects\TestesAleatorios\JogoAdvinhacao\obj\x86\Debug\JogoAdvinhacao.pdb
+C:\Users\Usuario\documents\visual studio 2010\Projects\TestesAleatorios\JogoAdvinhacao\obj\x86\Debug\JogoAdvinhacao.csprojResolveAssemblyReference.cache
