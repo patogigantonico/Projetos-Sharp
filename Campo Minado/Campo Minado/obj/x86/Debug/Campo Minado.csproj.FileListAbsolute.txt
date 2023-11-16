@@ -1,0 +1,8 @@
+C:\Users\Usuario\documents\visual studio 2010\Projects\Campo Minado\Campo Minado\bin\Debug\Campo Minado.exe
+C:\Users\Usuario\documents\visual studio 2010\Projects\Campo Minado\Campo Minado\bin\Debug\Campo Minado.pdb
+C:\Users\Usuario\documents\visual studio 2010\Projects\Campo Minado\Campo Minado\obj\x86\Debug\Campo_Minado.Properties.Resources.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\Campo Minado\Campo Minado\obj\x86\Debug\Campo Minado.csproj.GenerateResource.Cache
+C:\Users\Usuario\documents\visual studio 2010\Projects\Campo Minado\Campo Minado\obj\x86\Debug\Campo Minado.exe
+C:\Users\Usuario\documents\visual studio 2010\Projects\Campo Minado\Campo Minado\obj\x86\Debug\Campo Minado.pdb
+C:\Users\Usuario\documents\visual studio 2010\Projects\Campo Minado\Campo Minado\obj\x86\Debug\Campo Minado.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\documents\visual studio 2010\Projects\Campo Minado\Campo Minado\obj\x86\Debug\Campo_Minado.Jogo.resources
