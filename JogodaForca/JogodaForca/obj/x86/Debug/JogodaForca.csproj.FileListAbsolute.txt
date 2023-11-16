@@ -1,0 +1,8 @@
+c:\users\usuario\documents\visual studio 2010\Projects\JogodaForca\JogodaForca\bin\Debug\JogodaForca.exe
+c:\users\usuario\documents\visual studio 2010\Projects\JogodaForca\JogodaForca\bin\Debug\JogodaForca.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2010\Projects\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2010\Projects\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.exe
+c:\users\usuario\documents\visual studio 2010\Projects\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.Jogo.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.csprojResolveAssemblyReference.cache
