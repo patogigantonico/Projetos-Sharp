@@ -1,0 +1,4 @@
+c:\users\usuario\documents\visual studio 2010\Projects\Aplicativo matrizes\Aplicativo matrizes\bin\Debug\Aplicativo matrizes.exe
+c:\users\usuario\documents\visual studio 2010\Projects\Aplicativo matrizes\Aplicativo matrizes\bin\Debug\Aplicativo matrizes.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\Aplicativo matrizes\Aplicativo matrizes\obj\x86\Debug\Aplicativo matrizes.exe
+c:\users\usuario\documents\visual studio 2010\Projects\Aplicativo matrizes\Aplicativo matrizes\obj\x86\Debug\Aplicativo matrizes.pdb
