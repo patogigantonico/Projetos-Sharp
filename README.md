@@ -4,5 +4,5 @@ Eu não sei utilizar muito bem o github então se as pastas ou arquivos ficarem 
 
 Estou aberto à qualquer sugestão/crítica construtiva.
 
-Vale lembrar que alguns projetos são antigos, ou seja podem ter o código tão eficiente e legível.
+Vale lembrar que alguns projetos são antigos, ou seja podem ter o código não tão eficiente e legível.
 Você pode encontrar o executável(.exe) do projeto na pasta bin/debug.
