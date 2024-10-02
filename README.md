@@ -1,8 +1,7 @@
 # ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) Projetos-Sharp 
-Este repositório contém alguns de meus projetos pessoais de estudo utilizando a linguagem 
-Estou aberto à qualquer sugestão/crítica construtiva.
+Este repositório contém alguns de meus projetos pessoais de estudo utilizando a linguagem C#.
 
-- Vale lembrar que alguns projetos são antigos, ou seja podem ter o código não tão eficiente e legível.
+- ⚠️ Vale lembrar que alguns projetos são antigos, ou seja podem ter o código não tão eficiente e legível.
 Você pode encontrar o executável(.exe) do projeto na pasta bin/debug.
 
 Você pode ver mais projetos como esse nas minhas redes sociais\
