@@ -1,6 +1,5 @@
 # Projetos-Sharp
-Este repositório contém alguns de meus projetos que fiz utilizando c#.
-Eu não sei utilizar muito bem o github então se as pastas ou arquivos ficarem desorganizados peço desculpas.
+Este repositório contém alguns de meus projetos pessoais de estudo utilizando a linguagem c#.
 
 Estou aberto à qualquer sugestão/crítica construtiva.
 
