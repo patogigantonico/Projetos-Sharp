@@ -6,6 +6,6 @@ Você pode encontrar o executável(.exe) do projeto na pasta bin/debug.
 
 - ⚠️ Você pode encontrar prints de funcionamento de cada projeto ao acessar a respectiva página.
 
-Você pode ver mais projetos como esse nas minhas redes sociais\
+Você pode ver mais projetos como esses nas minhas redes sociais\
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-william--/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/danp.rog/)
