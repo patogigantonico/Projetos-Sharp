@@ -1,4 +1,4 @@
-# ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) Projetos-Sharp 
+# ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) Projetos-Sharp 
 Este repositório contém alguns de meus projetos pessoais de estudo utilizando a linguagem C#.
 
 - ⚠️ Vale lembrar que alguns projetos são antigos, ou seja podem ter o código não tão eficiente e legível.
